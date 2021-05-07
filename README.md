@@ -57,7 +57,7 @@ Al niente?
 
 Lasciate perdere.
 
-## Sources
+## Fonti
 [Codepen button by Nathan Taylor](https://codepen.io/nathantaylor/pen/woKbqX)
 
-[No Code by Kelsey Hightower](https://codepen.io/nathantaylor/pen/woKbqX)
+[Inspired by No Code - Kelsey Hightower](https://codepen.io/nathantaylor/pen/woKbqX)
