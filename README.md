@@ -60,4 +60,4 @@ Lasciate perdere.
 ## Fonti
 [Codepen button by Nathan Taylor](https://codepen.io/nathantaylor/pen/woKbqX)
 
-[Inspired by No Code - Kelsey Hightower](https://codepen.io/nathantaylor/pen/woKbqX)
+[Inspired by No Code - Kelsey Hightower](https://github.com/kelseyhightower/nocode)
